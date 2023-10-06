@@ -1,0 +1,221 @@
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\kitchen.exe.config
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\kitchen.exe
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\kitchen.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Identity.Client.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Newtonsoft.Json.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Buffers.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Collections.Immutable.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Data.SqlClient.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Memory.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Numerics.Vectors.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.Identity.Client.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\Newtonsoft.Json.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Buffers.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Collections.Immutable.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Data.SqlClient.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Memory.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Numerics.Vectors.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.csproj.AssemblyReference.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.csproj.SuggestedBindingRedirects.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.Form1.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.Properties.Resources.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.csproj.GenerateResource.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.csproj.CoreCompileInputs.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.csproj.CopyComplete
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.exe
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.Position.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.Measure.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.IngredientsAll.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\EntityFramework.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\EntityFramework.SqlServer.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\EntityFramework.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\bin\Debug\EntityFramework.SqlServer.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.ProductsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.IngredientsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.MaterialsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.EmploeesForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.PurchaseForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.BudgetForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.SaleForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.ProductionForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen\kitchen\obj\Debug\kitchen.SalaryForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\kitchen.exe.config
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\kitchen.exe
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\kitchen.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\EntityFramework.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\EntityFramework.SqlServer.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Identity.Client.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Newtonsoft.Json.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Buffers.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Collections.Immutable.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Data.SqlClient.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Memory.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Numerics.Vectors.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\EntityFramework.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\EntityFramework.SqlServer.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.Identity.Client.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\Newtonsoft.Json.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Buffers.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Collections.Immutable.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Data.SqlClient.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Memory.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Numerics.Vectors.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.csproj.AssemblyReference.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.csproj.SuggestedBindingRedirects.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.BudgetForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.EmploeesForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.Form1.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.IngredientsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.IngredientsAll.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.MaterialsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.Measure.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.Position.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.ProductionForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.ProductsForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.Properties.Resources.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.PurchaseForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.SalaryForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.SaleForm.resources
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.csproj.GenerateResource.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.csproj.CoreCompileInputs.cache
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.csproj.CopyComplete
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.exe
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.pdb
+D:\Локальный диск\Адил\УЧЁБА\Универ\3 курс\БД\kitchen — копия (2)\kitchen\obj\Debug\kitchen.Repository.SalaryByIdForm.resources
